@@ -1,0 +1,16 @@
+PODS:
+  - ijkplayer (1.1.3)
+
+DEPENDENCIES:
+  - ijkplayer (from `../IJKMediaPodDemo/ijkplayer.spec.json`)
+
+EXTERNAL SOURCES:
+  ijkplayer:
+    :podspec: "../IJKMediaPodDemo/ijkplayer.spec.json"
+
+SPEC CHECKSUMS:
+  ijkplayer: 66563f360f5b0a7138a01cb993976b9febfe4d1f
+
+PODFILE CHECKSUM: 08e431e9fef668bff78d1291ba486e743932bd34
+
+COCOAPODS: 1.5.3

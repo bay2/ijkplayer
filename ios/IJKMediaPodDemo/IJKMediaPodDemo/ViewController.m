@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import <IJKMediaPlayer/IJKMediaPlayer.h>
+#import <IJKMediaFramework/IJKMediaPlayer.h>
 
 @interface ViewController ()
 
